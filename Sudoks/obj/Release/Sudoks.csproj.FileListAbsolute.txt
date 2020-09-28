@@ -1,0 +1,17 @@
+C:\Users\X\Source\Repos\Sudoks\Sudoks\bin\Release\Sudoks.exe.config
+C:\Users\X\Source\Repos\Sudoks\Sudoks\bin\Release\Sudoks.exe
+C:\Users\X\Source\Repos\Sudoks\Sudoks\bin\Release\Sudoks.pdb
+C:\Users\X\Source\Repos\Sudoks\Sudoks\obj\Release\MainWindow.g.cs
+C:\Users\X\Source\Repos\Sudoks\Sudoks\obj\Release\App.g.cs
+C:\Users\X\Source\Repos\Sudoks\Sudoks\obj\Release\Sudoks_MarkupCompile.cache
+C:\Users\X\Source\Repos\Sudoks\Sudoks\obj\Release\Sudoks_MarkupCompile.lref
+C:\Users\X\Source\Repos\Sudoks\Sudoks\obj\Release\MainWindow.baml
+C:\Users\X\Source\Repos\Sudoks\Sudoks\obj\Release\Sudoks.g.resources
+C:\Users\X\Source\Repos\Sudoks\Sudoks\obj\Release\Sudoks.Properties.Resources.resources
+C:\Users\X\Source\Repos\Sudoks\Sudoks\obj\Release\Sudoks.csproj.GenerateResource.cache
+C:\Users\X\Source\Repos\Sudoks\Sudoks\obj\Release\Sudoks.csproj.CoreCompileInputs.cache
+C:\Users\X\Source\Repos\Sudoks\Sudoks\obj\Release\Sudoks.exe
+C:\Users\X\Source\Repos\Sudoks\Sudoks\obj\Release\Sudoks.pdb
+C:\Users\X\Source\Repos\Sudoks\Sudoks\bin\Release\PresentationFramework.dll
+C:\Users\X\Source\Repos\Sudoks\Sudoks\obj\Release\Sudoks.csproj.CopyComplete
+C:\Users\X\Source\Repos\Sudoks\Sudoks\obj\Release\Sudoks.csprojAssemblyReference.cache
